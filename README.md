@@ -10,6 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61ddfd)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
+![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
 
 ### Follow me
