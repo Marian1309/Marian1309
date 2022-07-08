@@ -9,9 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61ddfd)
+![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#87CAED)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
-![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#87CAED)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
 
 ### Follow me
