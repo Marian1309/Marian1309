@@ -3,6 +3,8 @@
 ## Skills
 
 ## Technologies that I plan to study
+![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=Express&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=Firebase&logoColor=FFCC31)
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
