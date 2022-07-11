@@ -1,6 +1,6 @@
 # Hello, I'm a Junior Front-end Developer
 
-## Skills
+## My Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61ddfd)
 
-### Additional skills
+### Additional Important skills
 
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#87CAED)
@@ -33,5 +33,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/marian_pidchashyi/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Mocnui_Hlop)
 [![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/Marian1309)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1309&layout=compact&&langs_count=10&theme=dark)
