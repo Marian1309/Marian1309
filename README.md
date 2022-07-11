@@ -13,6 +13,7 @@
 ![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
 ![Babel](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel&logoColor=yellow)
 ![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
+![Eslint](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=Eslint&logoColor=7C7CE9)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
 
 ### Follow me
