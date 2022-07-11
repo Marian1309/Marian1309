@@ -2,7 +2,6 @@
 
 ## Skills
 
-
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=sass&logoColor=CC6699)
@@ -12,6 +11,7 @@
 ![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#87CAED)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
+![Babel](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel&logoColor=yellow)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
 
 ### Follow me
