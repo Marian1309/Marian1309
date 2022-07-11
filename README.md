@@ -26,3 +26,4 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/UcDhjJW9)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Mocnui_Hlop)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/marian_pidchashyi/)
+[![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/Marian1309)
