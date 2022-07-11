@@ -33,4 +33,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/marian_pidchashyi/)
 [![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](https://github.com/Marian1309)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1309&layout=compact&&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1309&layout=compact&&langs_count=5&theme=dark)
