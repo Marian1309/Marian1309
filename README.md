@@ -12,6 +12,7 @@
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
 ![Babel](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel&logoColor=yellow)
+![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
 
 ### Follow me
