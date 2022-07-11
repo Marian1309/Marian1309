@@ -1,6 +1,6 @@
-## Hello, I'm a Junior Front-end Developer
+# Hello, I'm a Junior Front-end Developer
 
-## Languages and Tools
+## Skills
 
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
