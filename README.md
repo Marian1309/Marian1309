@@ -14,10 +14,10 @@
 ![Npm](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm&logoColor=#87CAED)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=E34F26)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=#87CAED)
+![Gulp](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=Gulp&logoColor=red)
 ![Babel](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel&logoColor=yellow)
 ![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
 ![Eslint](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=Eslint&logoColor=7C7CE9)
-![Gulp](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=Gulp&logoColor=red)
 
 ## Technologies that I plan to study
 ![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=Express&logoColor=fff)
