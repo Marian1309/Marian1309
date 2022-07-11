@@ -20,6 +20,11 @@
 ![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
 ![Eslint](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=Eslint&logoColor=7C7CE9)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge)
+![Gulp](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=Gulp&logoColor=red)
+![Next.js](https://img.shields.io/badge/-NEXT.js-090909?style=for-the-badge&logo=Next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
+![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Php&logoColor=blue)
+![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7C7CE9)
 
 ### Follow me
 
