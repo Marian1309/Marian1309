@@ -32,7 +32,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/marian_pidchashyi/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/Mocnui_Hlop)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/UcDhjJW9)
-[![Gmail](https://img.shields.io/badge/-GMAIL-090909?style=for-the-badge&logo=Gmail&logoColor=DE3F32)](pidchashymaryan@gmail.com)
 [![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](mailto:https://github.com/Marian1309)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1309&layout=compact&&langs_count=10&theme=dark)
