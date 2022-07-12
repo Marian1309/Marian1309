@@ -34,4 +34,4 @@
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.gg/UcDhjJW9)
 [![Github](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=Github&logoColor=fff)](mailto:https://github.com/Marian1309)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian1309&layout=compact&&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marian139&layout=compact&&langs_count=10&theme=dark)
