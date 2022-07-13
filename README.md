@@ -19,13 +19,16 @@
 ![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
 ![Eslint](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=Eslint&logoColor=7C7CE9)
 
-## Technologies that I plan to study
-![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=Express&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=Firebase&logoColor=FFCC31)
-![Next.js](https://img.shields.io/badge/-NEXT.js-090909?style=for-the-badge&logo=Next.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
+## Technologies in progress
+
 ![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Php&logoColor=blue)
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7C7CE9)
+![Firebase](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=Firebase&logoColor=FFCC31)
+
+## Technologies that I plan to study
+![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=Express&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-NEXT.js-090909?style=for-the-badge&logo=Next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-NODE.js-090909?style=for-the-badge&logo=Node.js&logoColor=green)
 
 ### Follow me
 
