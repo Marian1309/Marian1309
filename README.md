@@ -19,7 +19,7 @@
 ![Autoprefixer](https://img.shields.io/badge/-AUTOPREFIXER-090909?style=for-the-badge&logo=Autoprefixer&logoColor=red)
 ![Eslint](https://img.shields.io/badge/-ESLINT-090909?style=for-the-badge&logo=Eslint&logoColor=7C7CE9)
 
-## Technologies in progress
+## Technologies in progress of Learning
 
 ![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=Php&logoColor=blue)
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=Redux&logoColor=7C7CE9)
