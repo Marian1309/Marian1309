@@ -1,250 +1,54 @@
-# 👋 Hi there! I'm Marian Pidchashyi
+### 👋 Hi there! I'm Marian Pidchashyi
 
-### Frontend Deeloper from Ukraine 💙💛
+#### Frontend Deeloper from Ukraine 💙💛
 
-<h2 align="left">🔥 Tech stack</h2>
+## 🔥 Tech stack
 
-> General
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass&logoColor=8e4871)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nextjs](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro&logoColor=#ff5d01)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Styled-components](https://img.shields.io/badge/-Styled%20components-black?style=flat-square&logo=styledComponents)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialui)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat-square&logo=redux&logoColor=5e3f90)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
+![React-query](https://img.shields.io/badge/-React%20query-black?style=flat-square&logo=reactQuery)
+![React-hook-form](https://img.shields.io/badge/-React%20hook%20form-black?style=flat-square&logo=reactHookForm)
+![Zod](https://img.shields.io/badge/-Zod-black?style=flat-square&logo=zod&logoColor=3068b7)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-black?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql&logoColor=311C87)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=430098)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright&logoColor=296b2d)
+![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint&logoColor=4b32c3)
+![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=1a2b34)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square)
+![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square)
 
-<table>
-  <tr>
-    <td align="center" width="50" height="70">
-        <img src="./icons/html5-original.svg" width="36" height="36" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="50" height="70">
-        <img src="./icons/css3-original.svg" width="36" height="36" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="50" height="70">
-        <img src="./icons/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="50" height="70">
-        <img src="./icons/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-</table>
+> Technologies of future study
 
-> Frontend
-
-<table>
-  <tr>
-    <td align="center" width="50" height="70">
-        <img src="./icons/react-original.svg" width="36" height="36" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="50" height="70">
-        <img src="./icons/nextjs-original.svg" width="36" height="36" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="50" height="70">
-        <img src="./icons/astro-original.svg" width="36" height="36" alt="Astro" />
-      <br>Astro
-    </td>
-        <td align="center" width="75" height="50">
-        <img src="./icons/vite-original.png" width="36" height="36" alt="Vite" />
-      <br>Vite
-    </td>
-  </tr>
-</table>
-
-> Backend
-
-<table>
-  <tr>
-    <td align="center" width="50" height="50">
-        <img src="./icons/nodejs-original.svg" width="36" height="36" alt="Nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/express-original.svg" width="36" height="36" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/mongodb-original.svg" width="36" height="36" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/postgresql-original.png" width="36" height="36" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-     <td align="center" width="50" height="50">
-        <img src="./icons/prisma-original.svg" width="36" height="36" alt="Prisma" />
-      <br>Prisma
-    </td>
-  </tr>
-</table>
-
-> Clouds
-
-<table>
-  <tr>
-    <td align="center" width="70" height="50">
-        <img src="./icons/vercel.png" width="36" height="36" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center" width="70" height="50">
-        <img src="./icons/netlify.png" width="36" height="36" alt="Netlify" />
-      <br>Netlify
-    </td>
-    <td align="center" width="70" height="50">
-        <img src="./icons/firebase.png" width="36" height="36" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/supabase-original.png" width="36" height="36" alt="Supabase" />
-      <br>Supabase
-    </td>
-  </tr> 
-</table>
-
-> Styling and UI LIbraries
-
-<table>
-  <tr>
-    <td align="center" width="70" height="50">
-        <img src="./icons/sass-original.svg" width="36" height="36" alt="SASS" />
-      <br>SASS
-    </td>
-    <td align="center" width="130" height="50">
-        <img src="./icons/styled-components-original.png" width="36" height="36" alt="Styled components" />
-      <br>Styled components
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/tailwindcss-original.svg" width="36" height="36" alt="TailwindCSS" />
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/shadcn-ui-original.png" width="36" height="36" alt="ShadcnUI" />
-      <br>ShadcnUI
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/mui-original.png" width="36" height="36" alt="MaterialUI" />
-      <br>MaterialUI
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/daisyui-original.png" width="36" height="36" alt="DaisyUI" />
-      <br>DaisyUI
-    </td>
-  </tr> 
-</table>
-
-> State Management and Other helper libraries
-
-<table>
-  <tr>
-    <td align="center" width="90" height="90">
-        <img src="./icons/redux-original.svg" width="36" height="36" alt="Redux-Toolkit" />
-      <br>Redux Toolkit
-    </td>
-    <td align="center" width="106" height="90">
-        <img src="./icons/zustand-original.png" width="36" height="36" alt="Zustand" />
-      <br>Zustand
-    </td>
-    <td align="center" width="106" height="90">
-        <img src="./icons/tanstack-query-original.png" width="36" height="36" alt="Tanstack query" />
-      <br>Tanstack query
-    </td>
-    <td align="center" width="90" height="90">
-        <img src="./icons/react-hook-form-original.png" width="36" height="36" alt="react-hook-form" />
-      <br>React hook form
-    </td>
-    <td align="center" width="106" height="90">
-        <img src="./icons/zod-original.svg" width="36" height="36" alt="zod" />
-      <br>Zod
-    </td>
-    <td align="center" width="106" height="90">
-        <img src="./icons/react-hot-toast-original.png" width="36" height="36" alt="React hot toast" />
-      <br>React hot toast
-    </td>
-    </tr>
-</table>
-
-> Testing
-
-<table>
-  <tr>
-    <td align="center" width="70" height="50">
-        <img src="./icons/jest-original.png" width="36" height="36" alt="Jest" />
-      <br>Jest
-    </td>
-    <td align="center" width="150" height="50">
-        <img src="./icons/react-testing-library-original.png" width="36" height="36" alt="React Testing LIbrary" />
-      <br>React Testing LIbrary
-    </td>
-    
-  </tr> 
-</table>
-
-> Code quality
-
-<table>
-  <tr>
-    <td align="center" width="50" height="50">
-        <img src="./icons/eslint-original.svg" width="36" height="36" alt="Eslint" />
-      <br>Eslint
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/prettier-orinal.svg" width="36" height="36" alt="Prettier" />
-      <br>Prettier
-    </td>
-  </tr> 
-</table>
-
-> Devops Tools
-
-<table>
-  <tr>
-   <td align="center" width="70" height="70">
-        <img src="./icons/linux.png" width="36" height="36" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="70" height="70">
-        <img src="./icons/postman.png" width="36" height="36" alt="Postman" />
-      <br>Postman
-    </td>
-   <td align="center" width="70" height="70">
-        <img src="./icons/git-original.svg" width="36" height="36" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="70" height="70">
-        <img src="./icons/github-original.svg" width="36" height="36" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="70" height="70">
-        <img src="./icons/npm-original.png" width="36" height="36" alt="NPM" />
-      <br>NPM
-    </td>
-    <td align="center" width="70" height="70">
-        <img src="./icons/pnpm-original.png" width="36" height="36" alt="PNPM" />
-      <br>PNPM
-    </td>
-  </tr>
-</table>
-
-> I will learn
-
-<table>
-  <tr>
-    <td align="center" width="50" height="50">
-        <img src="./icons/storybook-original.svg" width="36" height="36" alt="Storybook" />
-      <br>Storybook
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/graphql-original.png" width="36" height="36" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/docker-original.svg" width="36" height="36" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="50" height="50">
-        <img src="./icons/nestjs-original.svg" width="36" height="36" alt="Nestjs" />
-      <br>Nest.js
-    </td>
-  </tr> 
-</table>
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
 
 ## Github Statistics
 
