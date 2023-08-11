@@ -1,8 +1,8 @@
-### 👋 Hi there! I'm Marian Pidchashyi
+## 👋 Hi there! I'm Marian Pidchashyi
 
-#### Frontend Deeloper from Ukraine 💙💛
+### Frontend Deeloper from Ukraine 💙💛
 
-## 🔥 Tech stack
+### 🔥 Tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
@@ -39,8 +39,9 @@
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright&logoColor=296b2d)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint&logoColor=4b32c3)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=1a2b34)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square)
-![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square&logo=pnpm)
 
 > Technologies of future study
 
