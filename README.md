@@ -31,6 +31,7 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql&logoColor=311C87)
+![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=430098)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -46,11 +47,7 @@
 > Technologies of future study
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
-
-## Github Statistics
-
-<img height="125px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marian1309&layout=compact&theme=vision-friendly-dark" />
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
