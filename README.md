@@ -49,5 +49,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
