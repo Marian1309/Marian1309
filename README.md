@@ -2,7 +2,7 @@
 
 ### Frontend Deeloper from Ukraine 💙💛
 
-### 🔥 Tech stack
+### 👨‍💻 Tech stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
@@ -51,3 +51,13 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+### 🛠️ Skills
+
+- RESTful APIs
+- Responsive Web Design
+- Performance Optimization
+- Web Accessibility
+- SEO (Search Engine Optimization)
+- Time management
+- Continious Learning
