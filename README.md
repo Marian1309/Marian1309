@@ -54,7 +54,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux%20Shell-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ![Skill](https://img.shields.io/badge/RESTful%20APIs-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Responsive%20Design-black?style=flat-square)
