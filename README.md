@@ -34,13 +34,10 @@
 ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=430098)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright&logoColor=296b2d)
 ![Eslint](https://img.shields.io/badge/-Eslint-black?style=flat-square&logo=eslint&logoColor=4b32c3)
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=1a2b34)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square&logo=pnpm)
 
@@ -54,10 +51,20 @@
 
 ### 🛠️ Skills
 
-- RESTful APIs
-- Responsive Web Design
-- Performance Optimization
-- Web Accessibility
-- SEO (Search Engine Optimization)
-- Time Management
-- Continious Learning
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Skill](https://img.shields.io/badge/RESTful%20APIs-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Responsive%20Web%20Design-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Performance%20Optimization-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Web%20Accessibility-black?style=flat-square)
+![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Time%20Management-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
+
+> Skills of future study
+
+![Skill](https://img.shields.io/badge/PWA-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
+![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
