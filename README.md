@@ -54,4 +54,10 @@
 
 ### 🛠️ Skills
 
-RESTful APIs, Responsive Web Design, Performance Optimization, Web Accessibility, SEO (Search Engine Optimization), Time management, Continious Learning
+- RESTful APIs
+- Responsive Web Design
+- Performance Optimization
+- Web Accessibility
+- SEO (Search Engine Optimization)
+- Time Management
+- Continious Learning
