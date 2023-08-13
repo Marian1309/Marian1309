@@ -46,25 +46,26 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
+![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three-js)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
 ### 🛠️ Skills
 
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/Linux%20Shell-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Skill](https://img.shields.io/badge/RESTful%20APIs-black?style=flat-square)
-![Skill](https://img.shields.io/badge/Responsive%20Web%20Design-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Responsive%20Design-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Performance%20Optimization-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Web%20Accessibility-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Time%20Management-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Communication-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
 
 > Skills of future study
 
 ![Skill](https://img.shields.io/badge/PWA-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
-![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
