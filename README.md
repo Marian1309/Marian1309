@@ -29,6 +29,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql&logoColor=311C87)
 ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
