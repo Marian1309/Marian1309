@@ -70,3 +70,4 @@
 
 ![Skill](https://img.shields.io/badge/PWA-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
+![Skill](https://img.shields.io/badge/CI/CD-black?style=flat-square)
