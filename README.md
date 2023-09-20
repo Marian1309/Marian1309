@@ -64,10 +64,7 @@
 ![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Time%20Management-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Communication-black?style=flat-square)
-![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
-
-> Skills of future study
-
 ![Skill](https://img.shields.io/badge/PWA-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/CI/CD-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
