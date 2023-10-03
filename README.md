@@ -41,15 +41,17 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=1a2b34)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square&logo=pnpm)
+![TRPC](https://img.shields.io/badge/-TRPC-black?style=flat-square&logo=trpc)
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 > Technologies of future study
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three-js)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 
 ### 🛠️ Skills
 
