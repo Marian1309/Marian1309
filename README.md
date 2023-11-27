@@ -44,6 +44,7 @@
 ![TRPC](https://img.shields.io/badge/-TRPC-black?style=flat-square&logo=trpc)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 
 > Technologies of future study
 
@@ -51,7 +52,6 @@
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three-js)
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 
 ### 🛠️ Skills
 
