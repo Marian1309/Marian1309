@@ -57,7 +57,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
 ![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three-js)
+
+> No Way I would study it
+
 ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
+![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=gcp-gcp)
 
 ### 🛠️ Skills
 
