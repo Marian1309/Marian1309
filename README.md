@@ -19,6 +19,10 @@
   <img alt="Styled-components" height="30" width="30" src="https://styled-components.com/favicon.png" />
   <img alt="ShadcnUi" height="30" width="30" src="https://ui.shadcn.com/favicon.ico" />
   <img alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img alt="ReduxToolkit" height="30" width="30" src="https://redux-toolkit.js.org/img/favicon/favicon.ico" />
+  <img alt="React-query" height="30" width="30" src="https://tanstack.com/favicon.ico" />
+  <img alt="React-hook-form" height="30" width="30" src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
+  <img alt="Zod" height="30" width="30" src="https://zod.dev/logo.svg" />
 
   <h4>Backend</h4>
   <img alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -31,6 +35,7 @@
   <img alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  
   <h4>Hosting</h4>
   <img alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
@@ -42,33 +47,11 @@
   <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-![Styled-components](https://img.shields.io/badge/-Styled%20components-black?style=flat-square&logo=styledComponents)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-![ShadcnUI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialui)
-
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-black?style=flat-square&logo=redux&logoColor=5e3f90)
-![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
-![React-query](https://img.shields.io/badge/-React%20query-black?style=flat-square&logo=reactQuery)
-![React-hook-form](https://img.shields.io/badge/-React%20hook%20form-black?style=flat-square&logo=reactHookForm)
-![Zod](https://img.shields.io/badge/-Zod-black?style=flat-square&logo=zod&logoColor=3068b7)
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PosgreSQL-black?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=430098)
-
-![Axios](https://img.shields.io/badge/-Axios-black?style=flat-square&logo=axios)
-![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql&logoColor=311C87)
-![TRPC](https://img.shields.io/badge/-TRPC-black?style=flat-square&logo=trpc)
 
 ![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=red)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright&logoColor=296b2d)
@@ -76,9 +59,6 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier&logoColor=1a2b34)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![PNPM](https://img.shields.io/badge/-PNPM-black?style=flat-square&logo=pnpm)
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 
 > Technologies of future study
 
