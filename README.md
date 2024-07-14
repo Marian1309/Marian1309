@@ -21,6 +21,7 @@
   <img alt="ReduxToolkit" height="30" width="30" src="https://redux-toolkit.js.org/img/favicon/favicon.ico" />
   <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="React-query" height="30" width="30" src="https://tanstack.com/favicon.ico" />
+  <img alt="Zustand" height="30" width="30" src="https://zustand-demo.pmnd.rs/favicon.ico" />
   <img alt="Zod" height="30" width="40" src="https://zod.dev/logo.svg" />
   <img alt="React-hook-form" height="30" width="30" src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
 
@@ -59,9 +60,13 @@
   <img alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   
   <h4>Technologies of future study</h4>
-  img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img alt="Framer-motion" height="30" width="40" src="https://www.framer.com/images/favicons/favicon.png" />
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
 </div>
 
 
