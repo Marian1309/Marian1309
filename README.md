@@ -63,11 +63,11 @@
   <h4>Technologies of future study</h4>
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img alt="Drizzle ORM" height="30" width="40" src="https://orm.drizzle.team/favicon.ico" />
   <img alt="Framer-motion" height="30" width="40" src="https://www.framer.com/images/favicons/favicon.png" />
   <img alt="TRPC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" />
   <img alt="SWR" height="30" width="40" src="https://swr.vercel.app/favicon/favicon.svg" />
 </div>
-
 
 ### 🛠️ Skills
 
