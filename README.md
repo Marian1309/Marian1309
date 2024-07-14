@@ -15,6 +15,8 @@
   <img alt="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
 </div>
 
+<br />
+
 <div aligh="left">
   <img alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
