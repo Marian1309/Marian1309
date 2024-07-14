@@ -16,7 +16,7 @@
   <img alt="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
   <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  <img alt="ShadcnUi" height="30" width="40" src="https://ui.shadcn.com/favicon.ico" />
+  <img alt="ShadcnUi" height="30" width="30" src="https://ui.shadcn.com/favicon.ico" />
   <img alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 
   <h4>Backend</h4>
