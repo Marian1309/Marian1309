@@ -17,9 +17,9 @@
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
   <img alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Styled-components" height="30" width="30" src="https://styled-components.com/favicon.png" />
-  <img alt="ShadcnUi" height="30" width="30" src="https://ui.shadcn.com/favicon.ico" />
   <img alt="MaterialUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img alt="ReduxToolkit" height="30" width="30" src="https://redux-toolkit.js.org/img/favicon/favicon.ico" />
+  <img alt="ShadcnUi" height="30" width="30" src="https://ui.shadcn.com/favicon.ico" />
   <img alt="React-query" height="30" width="30" src="https://tanstack.com/favicon.ico" />
   <img alt="Zod" height="30" width="40" src="https://zod.dev/logo.svg" />
   <img alt="React-hook-form" height="30" width="30" src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
