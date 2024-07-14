@@ -63,18 +63,12 @@
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
   <img alt="Framer-motion" height="30" width="40" src="https://www.framer.com/images/favicons/favicon.png" />
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
+  <img alt="TRPC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" />
+  <img alt="SWR" height="30" width="40" src="https://swr.vercel.app/favicon/favicon.svg" />
 </div>
 
 
 ### 🛠️ Skills
-
-![Linux](https://img.shields.io/badge/Linux%20Shell-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ![Skill](https://img.shields.io/badge/RESTful%20APIs-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Responsive%20Design-black?style=flat-square)
