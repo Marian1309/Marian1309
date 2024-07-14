@@ -55,20 +55,15 @@
   <img alt="PNPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" />
   <img alt="Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img alt="Prettier" height="30" width="30" src="https://prettier.io/icon.png" />
-  <img alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   <img alt="MJira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+  
+  <h4>Technologies of future study</h4>
+  img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img alt="Framer-motion" height="30" width="40" src="https://www.framer.com/images/favicons/favicon.png" />
 </div>
 
-> Technologies of future study
-
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs&logoColor=ea2845)
-![Threejs](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three-js)
-
-> No Way I would study it
-
-![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=gcp-gcp)
 
 ### 🛠️ Skills
 
