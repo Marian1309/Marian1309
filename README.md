@@ -34,7 +34,7 @@
   <img alt="Clerk" height="30" width="30" src="https://images.clerk.com/static/logo-dark-mode-400x400.png" />
   <img alt="Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" />
   <img alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img alt="SocketIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-plain.svg" />
+  <img alt="SocketIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
   <img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
