@@ -59,7 +59,7 @@
   <img alt="PNPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" />
   <img alt="Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img alt="Prettier" height="30" width="30" src="https://prettier.io/icon.png" />
-  <img alt="MJira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
   <img alt="Notion" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
   <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Stackoverflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
@@ -76,14 +76,15 @@
 
 ### 🛠️ Skills
 
-![Skill](https://img.shields.io/badge/RESTful%20APIs-black?style=flat-square)
+![Skill](https://img.shields.io/badge/API%20Integration-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Responsive%20Design-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Performance%20Optimization-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Web%20Accessibility-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Version%20Control-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/SEO-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Time%20Management-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Communication-black?style=flat-square)
-![Skill](https://img.shields.io/badge/PWA-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Code%20Optimization-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
-![Skill](https://img.shields.io/badge/CI/CD-black?style=flat-square)
+![Skill](https://img.shields.io/badge/Continuous%20Integration/Continuous%20Deployment%20(CI/CD)-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
