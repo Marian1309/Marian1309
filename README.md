@@ -57,6 +57,7 @@
   <img alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img alt="PNPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" />
+  <img alt="BUN" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" />
   <img alt="Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img alt="Prettier" height="30" width="30" src="https://prettier.io/icon.png" />
   <img alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
