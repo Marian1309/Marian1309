@@ -90,3 +90,5 @@
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
 ![Skill](<https://img.shields.io/badge/Continuous%20Integration/Continuous%20Deployment%20(CI/CD)-black?style=flat-square>)
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
+
+<a href="https://app.daily.dev/mar1k"><img src="https://api.daily.dev/devcards/v2/uCzdYU5dhwvEX3BvWEMzg.png?r=t4w" width="356" alt="Мар'ян Підчаший's Dev Card"/></a>
