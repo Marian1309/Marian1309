@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Marian Pidchashyi
 
-## Frontend Developer from Ukraine 💙💛
+## Fullstack Developer from Ukraine 💙💛
 
 ## 👨‍💻 Tech stack
 
