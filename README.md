@@ -1,8 +1,12 @@
-## 👋 Hi there! I'm Marian Pidchashyi
+<img alt="banner" src="./banner.jpg" />
 
-### Frontend Deeloper from Ukraine 💙💛
+<br />
 
-### 👨‍💻 Tech stack
+# 👋 Hi there! I'm Marian Pidchashyi
+
+## Frontend Deeloper from Ukraine 💙💛
+
+## 👨‍💻 Tech stack
 
 <div align="left"">
   <h4>Frontend</h4>
