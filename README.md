@@ -1,7 +1,5 @@
 <img alt="banner" src="./banner.jpg" />
 
-<br />
-
 # 👋 Hi there! I'm Marian Pidchashyi
 
 ## Frontend Deeloper from Ukraine 💙💛
