@@ -94,7 +94,7 @@
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
 
 <div style={{display: "flex"}}>
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Marian1309&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  <img src="[https://api.daily.dev/devcards/v2/uCzdYU5dhwvEX3BvWEMzg.png?r=t4w](https://github-readme-stats.vercel.app/api?username=Marian1309&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" width="356" alt="Мар'ян Підчаший's Dev Card"/>
 
   <a href="https://app.daily.dev/mar1k"><img src="https://api.daily.dev/devcards/v2/uCzdYU5dhwvEX3BvWEMzg.png?r=t4w" width="356" alt="Мар'ян Підчаший's Dev Card"/></a>
 </div>
