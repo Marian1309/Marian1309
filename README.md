@@ -61,6 +61,7 @@
   <img alt="Brave" height="30" width="30" src="https://brave.com/static-assets/images/brave-favicon.png" />
   <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Cursor" height="30" width="40" src="https://www.cursor.com/favicon.svg" />
   <img alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img alt="PNPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" />
