@@ -73,9 +73,9 @@
   <img alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="DailyDev" height="30" width="30" src="https://cdn.prod.website-files.com/5e0a5d9d743608d0f3ea6753/5f350958935a5ccf103429ce_daily.dev%20-%2032.png" />
   <img alt="Stackoverflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
-  <img alt="ChatGPT" height="30" width="30" src="https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png" />
+  <img alt="ChatGPT" height="30" width="30" src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
   <img alt="Claude AI" height="30" width="30" src="https://claude.ai/images/claude_app_icon.png" />
-  <img alt="ChatGPT" height="30" width="30" src="https://cdn.oaistatic.com/_next/static/media/favicon-32x32.630a2b99.png" />
+  <img alt="Grok" height="30" width="30" src="https://grok.com/images/favicon-dark.png" />
   
   <h4>Technologies of future study</h4>
   <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
