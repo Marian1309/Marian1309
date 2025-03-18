@@ -15,6 +15,7 @@
   <img alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Motion" height="30" width="30" src="https://framerusercontent.com/images/FEF0Xp0qllCZsG1uilpmdZAzD8.png" />
   <img alt="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
   <img alt="Styled-components" height="30" width="30" src="https://styled-components.com/favicon.png" />
@@ -27,7 +28,6 @@
   <img alt="SWR" height="30" width="40" src="https://swr.vercel.app/favicon/favicon.svg" />
   <img alt="Zod" height="30" width="40" src="https://zod.dev/logo.svg" />
   <img alt="React-hook-form" height="30" width="30" src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
-  <img alt="Motion" height="30" width="30" src="https://framerusercontent.com/images/FEF0Xp0qllCZsG1uilpmdZAzD8.png" />
   <img alt="FumoDocs" height="30" width="40" src="https://fumadocs.vercel.app/_next/static/media/logo.2ad4f518.png" />
 
   <h4>Backend</h4>
