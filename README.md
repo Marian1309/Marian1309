@@ -95,5 +95,3 @@
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
 ![Skill](<https://img.shields.io/badge/Continuous%20Integration/Continuous%20Deployment%20(CI/CD)-black?style=flat-square>)
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Marian1309&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
