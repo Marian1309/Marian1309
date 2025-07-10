@@ -95,3 +95,4 @@
 ![Skill](https://img.shields.io/badge/Websockets-black?style=flat-square)
 ![Skill](<https://img.shields.io/badge/Continuous%20Integration/Continuous%20Deployment%20(CI/CD)-black?style=flat-square>)
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
+![Skill](https://img.shields.io/badge/MCP%20custom%20creating%20and%20usage-black?style=flat-square)
