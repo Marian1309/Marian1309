@@ -10,9 +10,8 @@
 
 #
 
-<h1 align="center">
-  <strong>👨‍💻 Tech stack</strong>
-</h1>
+<div align="center">
+<strong>👨‍💻 Tech stack</strong></div>
 
 <div align="left">
   <h3>Frontend</h3>
