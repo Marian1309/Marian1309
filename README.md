@@ -11,7 +11,8 @@
 #
 
 <div align="center">
-<h1>👨‍💻 Tech stack</h1></div>
+<span>👨‍💻 Tech stack</span>
+</div>
 
 <div align="left">
   <h3>Frontend</h3>
