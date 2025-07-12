@@ -10,8 +10,8 @@
 
 #
 
-<div align="center">
-<span style={{fontSize: '24px'}}>👨‍💻 Tech stack</span>
+<div align="center" style={{ fontSize: 24 + "px"}}>
+👨‍💻 Tech stack
 </div>
 
 <div align="left">
