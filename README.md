@@ -8,8 +8,6 @@
   <p>💡 Always eager to learn and share knowledge with the community</p>
 </div>
 
-#
-
 <h1 align="center">👨‍💻 Tech stack</h1>
 
 <div align="left">
