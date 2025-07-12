@@ -11,7 +11,7 @@
 #
 
 <div align="center">
-<span style="font-size: 24px;">👨‍💻 Tech stack</span>
+<span style={{fontSize: 24}}>👨‍💻 Tech stack</span>
 </div>
 
 <div align="left">
