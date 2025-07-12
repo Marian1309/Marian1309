@@ -1,13 +1,19 @@
 <img alt="banner" src="./banner.jpg" />
 
-# 👋 Hi there! I'm Marian Pidchashyi
+<h1 align="center">👋 Hi there! I'm Marian - Fullstack Developer from Ukraine 💙💛</h1>
 
-## Fullstack Developer from Ukraine 💙💛
+<div align="center">
+  <p>🚀 Passionate about creating robust and scalable web applications</p>
+  <p>🌱 Currently exploring AI/ML integration in web apps</p>
+  <p>💡 Always eager to learn and share knowledge with the community</p>
+</div>
 
-## 👨‍💻 Tech stack
+#
 
-<div align="left"">
-  <h4>Frontend</h4>
+<h1 align="center">👨‍💻 Tech stack</h1>
+
+<div align="left">
+  <h3>Frontend</h3>
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -29,7 +35,7 @@
   <img alt="SWR" height="30" width="40" src="https://swr.vercel.app/favicon/favicon.svg" />
   <img alt="React-hook-form" height="30" width="30" src="https://www.react-hook-form.com/favicon-32x32.png?v=33dbda822526f0cf9f02a335ee65d925" />
 
-  <h4>Backend</h4>
+  <h3>Backend</h3>
   <img alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="ExpressJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -43,8 +49,10 @@
   <img alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+  <img alt="TRPC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" />
   
-  <h4>Hosting, Testing and Git</h4>
+  <h3>Hosting, Testing and Automations</h3>
   <img alt="Vercel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
   <img alt="Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
   <img alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
@@ -56,8 +64,9 @@
   <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="N8N" height="30" width="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.53.0/files/dark/n8n-color.png" />
 
-  <h4>Other crucial skills</h4>
+  <h3>Other crucial skills</h3>
   <img alt="Brave" height="30" width="30" src="https://brave.com/static-assets/images/brave-favicon.png" />
   <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -75,10 +84,6 @@
   <img alt="Stackoverflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
   <img alt="ChatGPT" height="30" width="30" src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
   <img alt="Grok" height="30" width="30" src="https://grok.com/images/favicon-dark.png" />
-
-  <h4>Technologies of future study</h4>
-  <img alt="Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-  <img alt="TRPC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trpc/trpc-original.svg" />
 </div>
 
 ### 🛠️ Skills
