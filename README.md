@@ -10,9 +10,8 @@
 
 #
 
-<h2 align="center">
-  <strong>👨‍💻 Tech stack</strong>
-</h2>
+<div align="center">
+  <h2>👨‍💻 Tech stack</h2>
 
 <div align="left">
   <h3>Frontend</h3>
@@ -86,6 +85,8 @@
   <img alt="Stackoverflow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" />
   <img alt="ChatGPT" height="30" width="30" src="https://cdn.oaistatic.com/assets/favicon-miwirzcw.ico" />
   <img alt="Grok" height="30" width="30" src="https://grok.com/images/favicon-dark.png" />
+</div>
+
 </div>
 
 ### 🛠️ Skills
