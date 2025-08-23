@@ -1,3 +1,5 @@
+<img alt="banner" src="./banner.jpg" />
+
 <h1 align="center">👋 Hi there! I'm Marian - Fullstack Developer from Ukraine 💙💛</h1>
 
 <div align="center">
