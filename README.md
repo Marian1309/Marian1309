@@ -63,7 +63,7 @@
   <img alt="GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
   <img alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="N8N" height="30" width="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.53.0/files/dark/n8n-color.png" />
+  <img alt="N8N" height="40" width="30" src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.53.0/files/dark/n8n-color.png" />
 
   <h3>Other crucial skills</h3>
   <img alt="Brave" height="30" width="30" src="https://brave.com/static-assets/images/brave-favicon.png" />
