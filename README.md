@@ -23,7 +23,6 @@
   <img alt="Motion" height="30" width="30" src="https://framerusercontent.com/images/FEF0Xp0qllCZsG1uilpmdZAzD8.png" />
   <img alt="Astro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
   <img alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" />
-  <img alt="FumoDocs" height="30" width="40" src="https://fumadocs.vercel.app/_next/static/media/logo.2ad4f518.png" />
   <img alt="Styled-components" height="30" width="30" src="https://styled-components.com/favicon.png" />
   <img alt="ShadcnUi" height="30" width="30" src="https://ui.shadcn.com/favicon.ico" />
   <img alt="Zustand" height="30" width="30" src="https://zustand-demo.pmnd.rs/favicon.ico" />
