@@ -97,4 +97,4 @@
 ![Skill](https://img.shields.io/badge/Continious%20Learning-black?style=flat-square)
 ![Skill](https://img.shields.io/badge/MCP%20custom%20creating%20and%20usage-black?style=flat-square)
 
-<div align="center"><a href="https://app.daily.dev/pidchashyi"><img src="https://api.daily.dev/devcards/v2/uCzdYU5dhwvEX3BvWEMzg.png?type=wide&r=6bn" width="652" alt="Marian Pidchashyi's Dev Card"/></a></div>
+<!-- <div align="center"><a href="https://app.daily.dev/pidchashyi"><img src="https://api.daily.dev/devcards/v2/uCzdYU5dhwvEX3BvWEMzg.png?type=wide&r=6bn" width="652" alt="Marian Pidchashyi's Dev Card"/></a></div> -->
