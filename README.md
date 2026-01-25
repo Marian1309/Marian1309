@@ -1,14 +1,3 @@
-<h1 align="center">👋 Hi there! I'm Marian - Fullstack Developer from Ukraine 💙💛</h1>
-
-<div align="center">
-  <p>🚀 Passionate about creating robust and scalable web applications</p>
-  <p>🌱 Currently exploring AI/ML integration in web apps</p>
-  <p>💡 Always eager to learn and share knowledge with the community</p>
-</div>
-
-<h1 align="center">
-<strong>👨‍💻 Tech stack</strong></h1>
-
 <div align="left">
   <h3>Frontend</h3>
   <img alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
