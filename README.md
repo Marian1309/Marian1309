@@ -1,7 +1,7 @@
 <div align="left">
 
   <h3>Frontend</h3>
-  <div style="display:flex; flex-wrap:wrap; gap:10px; max-width:600px;">
+  <div style="display:flex; flex-wrap:wrap; gap:14px; max-width:600px;">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -23,7 +23,7 @@
   </div>
 
   <h3>Backend</h3>
-  <div style="display:flex; flex-wrap:wrap; gap:10px; max-width:600px;">
+  <div style="display:flex; flex-wrap:wrap; gap:14px; max-width:600px;">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -42,7 +42,7 @@
   </div>
 
   <h3>Hosting, Testing and Automations</h3>
-  <div style="display:flex; flex-wrap:wrap; gap:10px; max-width:600px;">
+  <div style="display:flex; flex-wrap:wrap; gap:14px; max-width:600px;">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
@@ -58,7 +58,7 @@
   </div>
 
   <h3>Other crucial skills</h3>
-  <div style="display:flex; flex-wrap:wrap; gap:10px; max-width:600px;">
+  <div style="display:flex; flex-wrap:wrap; gap:14px; max-width:600px;">
     <img height="30" src="https://brave.com/static-assets/images/brave-favicon.png" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
